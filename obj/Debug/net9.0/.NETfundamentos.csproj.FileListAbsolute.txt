@@ -1,0 +1,14 @@
+C:\Users\Yago Victor\Documents\.NETfundamentos\bin\Debug\net9.0\.NETfundamentos.exe
+C:\Users\Yago Victor\Documents\.NETfundamentos\bin\Debug\net9.0\.NETfundamentos.deps.json
+C:\Users\Yago Victor\Documents\.NETfundamentos\bin\Debug\net9.0\.NETfundamentos.runtimeconfig.json
+C:\Users\Yago Victor\Documents\.NETfundamentos\bin\Debug\net9.0\.NETfundamentos.dll
+C:\Users\Yago Victor\Documents\.NETfundamentos\bin\Debug\net9.0\.NETfundamentos.pdb
+C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\.NETfundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\.NETfundamentos.AssemblyInfoInputs.cache
+C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\.NETfundamentos.AssemblyInfo.cs
+C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\.NETfundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\.NETfundamentos.dll
+C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\refint\.NETfundamentos.dll
+C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\.NETfundamentos.pdb
+C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\.NETfundamentos.genruntimeconfig.cache
+C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\ref\.NETfundamentos.dll
