@@ -1,3 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("teste");
+﻿using Models;
+
+Pessoa pessoa = new Pessoa();
+
+pessoa.Nome = "Yago victor";
+pessoa.Idade = 20;
+pessoa.Apresentar();

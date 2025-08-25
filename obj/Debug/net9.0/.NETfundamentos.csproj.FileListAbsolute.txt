@@ -12,3 +12,4 @@ C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\refint\.NETfunda
 C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\.NETfundamentos.pdb
 C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\.NETfundamentos.genruntimeconfig.cache
 C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\ref\.NETfundamentos.dll
+C:\Users\Yago Victor\Documents\.NETfundamentos\obj\Debug\net9.0\.NETfundamentos.sourcelink.json
