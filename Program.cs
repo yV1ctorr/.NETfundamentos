@@ -1,7 +1,11 @@
 ﻿using Models;
 
-Pessoa pessoa = new Pessoa();
+Calculadora calc = new Calculadora();
 
-pessoa.Nome = "Yago victor";
-pessoa.Idade = 20;
-pessoa.Apresentar();
+calc.Potencia(3, 3);
+
+calc.Seno(30);
+calc.Coseno(30);
+calc.Tangente(30);
+
+calc.Raiz(25);
